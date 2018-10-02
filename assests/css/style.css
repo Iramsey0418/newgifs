@@ -1,0 +1,87 @@
+body {
+	background-color: #70fffd;
+	color:yellow;
+}
+
+
+html {
+	border: 20px solid;
+	min-height: 100%;
+}
+#dogfavorites {
+	font-style: italic;
+	font-size: 36px;
+}
+
+.container {
+	opacity: 1;
+	margin-left: 35px;
+}
+
+button {
+    margin: 5px;
+    background-color: #a7ffa4;
+    color: black;
+    font-size: 12px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-color: #ffef97;
+    border-radius: 5px;
+}
+
+#dog-input-box {
+	float: right;
+	padding-right: 10%;
+}
+
+label {
+	font-size: 25px;
+	font-weight: bolder;
+}
+
+#add-dog {
+	padding: 5px 10px 5px 10px;
+	margin-top: 10px;
+	border-radius: 5px;
+	background-color: green;
+	color: white;
+}
+
+#dog-input {
+	margin-top: 10px;
+	height: 20px;
+}
+
+#dogview {
+	margin-top: 10px;
+	margin-right: 25%;
+}
+
+.dogpictures {
+	float: left;
+	display: inline;
+	margin-left: 20px;
+	margin-right: 20px;
+}
+
+h2 {
+	margin-top: 5px;
+    margin-bottom: 15px;
+	font-size: 20px;
+	font-weight: bold;
+	color: #a8a3ff;
+}
+
+.footer {
+	background: blue;
+    padding: 5px 0;
+    text-align: center;
+    color:black;
+    font-size: 16px;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    position: fixed;
+}
